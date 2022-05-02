@@ -48,7 +48,7 @@ class CalculatorTest {
 
     @AfterAll
     static void finish(){
-        
+
     }
 
 }
